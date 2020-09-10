@@ -1,0 +1,6 @@
+Team;Arsenal
+Add;Arsenal;Kieran_Gibbs;75;85;84;92;67
+Add;Arsenal;Aaron_Ramsey;95;82;82;89;68
+Remove;Arsenal;Aaron_Ramsey
+Rating;Arsenal
+END
